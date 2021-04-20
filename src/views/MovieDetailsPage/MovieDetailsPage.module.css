@@ -1,0 +1,33 @@
+.section {
+  padding: 20px;
+}
+
+/* .btn {
+    margin-bottom: 10px;
+  } */
+
+.movieBlock {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  border-bottom: 2px solid grey;
+}
+
+.movieImg {
+  width: 300px;
+  margin-right: 15px;
+}
+
+.title {
+  color: black;
+}
+
+.text {
+  margin-top: 10px;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.item {
+  margin-top: 7px;
+}

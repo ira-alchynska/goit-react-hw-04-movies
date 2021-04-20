@@ -1,0 +1,20 @@
+.navigation {
+  margin: 0;
+  padding: 25px;
+  display: flex;
+  list-style: none;
+  border-bottom: 2px solid grey;
+}
+
+.link {
+  font-size: 30px;
+  color: black;
+}
+
+.link:not(:last-child) {
+  margin-right: 25px;
+}
+
+.link_active {
+  color: coral;
+}

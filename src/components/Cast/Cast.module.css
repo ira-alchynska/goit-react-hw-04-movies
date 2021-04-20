@@ -1,0 +1,21 @@
+.actorCard {
+  display: flex;
+  margin-top: 10px;
+}
+
+.actorImg {
+  width: 100px;
+}
+
+.descr {
+  margin-left: 10px;
+}
+
+.text:not(:first-child) {
+  margin-top: 10px;
+}
+
+.content {
+  margin-right: 10px;
+  font-weight: 500;
+}
